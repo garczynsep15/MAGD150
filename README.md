@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# MAGD150
+A collection of my projects from MAGD150
+These ones are my favorite
 
-You can use the [editor on GitHub](https://github.com/garczynsep15/MAGD150/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Assignment 1
+[Assignment One](https://github.com/garczynsep15/MAGD150/blob/GH-Pages/f17magd150lab01_garczynski/f17magd150lab01_garczynski.pde)
+This assignment was the first one I ever did in processing. The theme was outerspace (one of my favorite things) so I made an alien. We were only allowed to use grey scale for the assignment, but I really like how it turned out.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assignment 4
+[Assignment 4](https://github.com/garczynsep15/MAGD150/blob/GH-Pages/f17magd150lab04_garczynski/f17magd150lab04_garczynski.pde)
+The amazing bouncy ball example. I personally think this project would have looked better if we knew how to use Vectors when it was assigned. I still really like it though. The theme was bouncy balls.
 
-### Markdown
+## Assignment 6
+[Assignment 6](https://github.com/garczynsep15/MAGD150/blob/GH-Pages/s17_magd150_lab06_Garczynski/s17_magd150_lab06_Garczynski.pde)
+This is my amazing screensaver. I chose to make the shapes change color at a slower speed because it reminded me of a loading screen for a space ship. I think this project generates some really cool color pallets and I would love to add a feature that lets the user take a screenshot so that I can use an eyedropper to take a sample of the colors. The theme was screensavers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Assignment 7
+[Assignment 7](https://github.com/garczynsep15/MAGD150/blob/GH-Pages/s17_magd150_lab07_Garczynski/s17_magd150_lab07_Garczynski.pde)
+This one probably took me the longest to do of all the assignments in this class. I spent so much time getting the leaves to not shoot off into infinity and only go so far. It was also a balancing game to figure out how many leaves I needed and what their boundary should be. We were supposed to also have a rotation and a scale in this project, but I couldn't figure out how to work them into my theme nicely, so I slyly wrote them in and proceeded to not use them. Somehow I still got 100% on this project though so thanks Professor Rhea. The theme was Nature.
 
-```markdown
-Syntax highlighted code block
+## Assignment 8
+[Assignment 8](https://github.com/garczynsep15/MAGD150/blob/GH-Pages/s17_magd150_lab8_Garczynski/s17_magd150_lab8_Garczynski.pde)
+There isn't to much to this one except I love Sonic the Hedgehog. The theme was motivational(?) posters.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garczynsep15/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
